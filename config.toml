@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://simple-site-from-codemon72.netlify.app/"
 languageCode = "en-us"
 title = "My Simple Site"
 theme = "ananke"
