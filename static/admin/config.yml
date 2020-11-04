@@ -20,7 +20,4 @@ collections:
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Code", name: "code", allow_language_selection: true, widget: "code"}
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
-    create: true
+  
