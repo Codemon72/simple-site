@@ -22,7 +22,6 @@ collections:
       - {label: "Code", name: "code", widget: "code"}
   - name: "pages"
     label: "Pages"
-    folder: "content/pages"
     create: true
     files:
       - file: "layouts/index.html"
