@@ -25,7 +25,7 @@ collections:
     folder: "content/pages"
     create: true
     files:
-      - file: "content/_index.md"
+      - file: "layouts/index.html"
         label: "Home Page"
         name: "home"
         fields:
